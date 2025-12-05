@@ -8,14 +8,13 @@ import Home from './pages/Home'
 import Adestramento from './pages/Adestramento'
 import HotelResort from './pages/HotelResort'
 
-function App() {
- 
+function App() { 
 
   return (
     <BrowserRouter>
     <header>
       <div className='container-fluid'>
-        <NavBar />
+        <NavBar />        
       </div>
     </header>
 
